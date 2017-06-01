@@ -16,6 +16,8 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.5'
 gem 'milia'
 gem 'devise', '~> 4.2'
+gem "twitter-bootstrap-rails"
+gem 'devise-bootstrap-views'
 
 
 group :development, :test do
